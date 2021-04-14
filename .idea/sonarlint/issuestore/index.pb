@@ -16,3 +16,5 @@ I
 pages/posts/first-post.js,f/f/ffb745bb6daa1a73887ce53f745ac3d88f0f9fa4
 D
 components/layout.js,5/b/5bb4fdb2f84a42ca4fab1cb96d362827588722bd
+A
+public/vercel.svg,0/c/0c3567b3146da917779092b6952cf7aa844d3c76
